@@ -1,3 +1,5 @@
+*NOTE: This is a fork, you can track the original here*: https://github.com/Cubitect/cubiomes
+
 # cubiomes
 
 Cubiomes is a standalone library, written in C, that mimics the biome and feature generation of Minecraft Java Edition.
